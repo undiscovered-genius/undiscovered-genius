@@ -9,7 +9,7 @@
 [![Java Badge](https://img.shields.io/badge/-Java-61DBFB?style=for-the-badge&labelColor=black&logo=java&logoColor=61DBFB)](#)    [![C Badge](https://img.shields.io/badge/-C-F0DB4F?style=for-the-badge&labelColor=black&logo=c&logoColor=F0DB4F)](#)    [![C++ Badge](https://img.shields.io/badge/-C++-e535ab?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=e535ab)](#)    [![Python Badge](https://img.shields.io/badge/-Python-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=007acc)](#)    [![Android Badge](https://img.shields.io/badge/-Android-3C873A?style=for-the-badge&labelColor=black&logo=android&logoColor=3C873A)](#)
 <br>
 
-### - 🔭 I’m currently working on Quiz web application. 
+### - 🔭 I’m currently working on COVID Tracker Android Application. 
 ### - 🌱 I’m currently learning everything I can. 
 
 
