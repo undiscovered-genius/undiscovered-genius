@@ -1,4 +1,5 @@
 ![Profile views](https://gpvc.arturio.dev/undiscovered-genius)  
+## [![Profile views](https://visitor-badge.glitch.me/badge?page_id=undiscovered-genius.undiscovered-genius)](https://github.com/undiscovered-genius)
 
 ## Hi there 👋, my name is Ayush Kumar Singh, aka Undiscovered-Genius :bowtie:
 <img src='res\night.gif' class="center">
