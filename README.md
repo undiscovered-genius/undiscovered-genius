@@ -6,7 +6,7 @@
 ### I am a self-taught Mobile App Developer. I love solving problems with mobile apps that have a great balance of simple design & good functionality. I am currently pursuing my 2nd year B.Tech in CSE branch at Symbiosis Institute of Technology, Pune(2019-23). Currently working to improve my skills. Always open to learn new things.
 
 ## Skills: 
-[![Java Badge](https://img.shields.io/badge/-Java-61DBFB?style=for-the-badge&labelColor=black&logo=java&logoColor=61DBFB)](#)    [![C Badge](https://img.shields.io/badge/-C-F0DB4F?style=for-the-badge&labelColor=black&logo=c&logoColor=F0DB4F)](#)    [![C++ Badge](https://img.shields.io/badge/-C++-e535ab?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=e535ab)](#)    [![Python Badge](https://img.shields.io/badge/-Python-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=007acc)](#)    [![Android Badge](https://img.shields.io/badge/-Android-3C873A?style=for-the-badge&labelColor=black&logo=android&logoColor=3C873A)](#)
+[![Java Badge](https://img.shields.io/badge/-Java-61DBFB?style=for-the-badge&labelColor=black&logo=java&logoColor=61DBFB)](#)    [![C Badge](https://img.shields.io/badge/-C-F0DB4F?style=for-the-badge&labelColor=black&logo=c&logoColor=F0DB4F)](#)    [![C++ Badge](https://img.shields.io/badge/-C++-e535ab?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=e535ab)](#)    [![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](#)    [![Android Badge](https://img.shields.io/badge/-Android-3C873A?style=for-the-badge&labelColor=black&logo=android&logoColor=3C873A)](#)
 <br>
 
 ### - 🔭 I’m currently working on COVID Tracker Android Application. 
