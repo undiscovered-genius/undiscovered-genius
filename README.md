@@ -3,13 +3,13 @@
 ## Hi there 👋, my name is Ayush Kumar Singh, aka Undiscovered-Genius :bowtie:
 <img src='res\night.gif' class="center">
 
-### I am a self-taught Mobile App Developer. I love solving problems with mobile apps that have a great balance of simple design & good functionality. I am currently pursuing my 2nd year B.Tech in CSE branch at Symbiosis Institute of Technology, Pune(2019-23). Currently working to improve my skills. Always open to learn new things.
+### I am a self-taught Mobile App Developer. I love solving problems with mobile apps that have a great balance of simple design & good functionality. I am currently pursuing my 3rd year B.Tech in CSE branch at Symbiosis Institute of Technology, Pune(2019-23). Currently working to improve my skills. Always open to learn new things.
 
 ## Skills & Tools: 
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)    [![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#)    [![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)    [![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](#)    [![Data Analytics Badge](https://img.shields.io/badge/Data%20Science-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)](#)    [![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#)    [![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#)    [![Firebase Badge](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](#)    [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)   [![Eclipse Badge](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](#)    [![RStudio Badge](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)](#) 
 <br>
 
-### - 🔭 I’m currently working on COVID Tracker Android Application. 
+### - 🔭 I’m currently working on Heart Disease Prediction Application using Machine Learning. 
 ### - 🌱 I’m currently learning everything I can. 
 
 
@@ -25,13 +25,10 @@
 
 ## Badge: <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=undiscovered-genius)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=undiscovered-genius&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=undiscovered-genius&show_icons=true&theme=blue-green)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=undiscovered-genius)  
 
 ![GitHub metrics](https://metrics.lecoq.io/undiscovered-genius)  
 
