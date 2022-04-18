@@ -3,13 +3,13 @@
 ## Hi there 👋, my name is Ayush Kumar Singh, aka Undiscovered-Genius :bowtie:
 <img src='res\night.gif' class="center">
 
-### I am a self-taught Mobile App Developer. I love solving problems with mobile apps that have a great balance of simple design & good functionality. I am currently pursuing my 3rd year B.Tech in CSE branch at Symbiosis Institute of Technology, Pune(2019-23). Currently working to improve my skills. Always open to learn new things.
+### I am a self-taught Mobile App Developer. I love solving problems with mobile apps that have a great balance of simple design & good functionality. I am currently pursuing my 3rd year B.Tech in CSE branch at Symbiosis Institute of Technology, Pune(2019-23). Currently working to improve my skills. Always open to learn new things.   [![Portfolio Badge](https://img.shields.io/badge/Portfolio%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white)](https://profirebaseproject-3b14b.web.app/) 
 
 ## Skills & Tools: 
-[![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)    [![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#)    [![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)    [![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](#)    [![Data Analytics Badge](https://img.shields.io/badge/Data%20Science-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)](#)    [![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#)    [![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#)    [![Firebase Badge](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](#)    [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)   [![Eclipse Badge](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](#)    [![RStudio Badge](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)](#) 
+[![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)    [![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#)    [![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)    [![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](#)    [![Data Analytics Badge](https://img.shields.io/badge/Data%20Science-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)](#)    [![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#)    [![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#)    [![Firebase Badge](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](#)    [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)   [![Eclipse Badge](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](#)    [![RStudio Badge](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)](#)     [![PowerBi Badge](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)](#) 
 <br>
 
-### - 🔭 I’m currently working on Heart Disease Prediction Application using Machine Learning. 
+### - 🔭 I’m currently working on Handwritten Text Recognition Application. 
 ### - 🌱 I’m currently learning everything I can. 
 
 
@@ -35,5 +35,5 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=undiscovered-genius&theme=blue-green)  
 
 ## [![Profile views](https://visitor-badge.glitch.me/badge?page_id=undiscovered-genius.undiscovered-genius)](https://github.com/undiscovered-genius)
-
+## [![Hits views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{undiscovered-genius}1212%2Fhit-counter)](https://github.com/undiscovered-genius)
 
