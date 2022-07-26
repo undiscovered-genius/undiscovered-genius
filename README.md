@@ -3,7 +3,7 @@
 ## Hi there 👋, my name is Ayush Kumar Singh, aka Undiscovered-Genius :bowtie:
 <img src='res\night.gif' class="center">
 
-### I am a self-taught Mobile App Developer. I love solving problems with mobile apps that have a great balance of simple design & good functionality. I am currently pursuing my 4th year B.Tech in CSE branch at Symbiosis Institute of Technology, Pune(2019-23). Currently working to improve my skills. Always open to learn new things.
+### I am a self-taught Mobile App Developer and Data Science enthusiast. I love solving problems with mobile apps that have a great balance of simple design & good functionality. I am currently pursuing my 4th year B.Tech in CSE branch at SIT, Pune(2019-23). Always open to learn new things and develop a healthy balance between academics and extracurricular activities.
 ##   [![Portfolio Badge](https://img.shields.io/badge/Portfolio-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white)](https://profirebaseproject-3b14b.web.app/) 
 
 ## Skills & Tools: 
