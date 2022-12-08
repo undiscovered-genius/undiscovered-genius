@@ -18,7 +18,6 @@
 
 [![Mail Badge](https://img.shields.io/badge/-undiscovered_genius-darkgreen?style=flat&labelColor=darkgreen&logo=github&logoColor=white)](https://github.com/undiscovered-genius)
 [![Linkedin Badge](https://img.shields.io/badge/-Ayush-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-ayush-kumar-singh/)
-[![Mail Badge](https://img.shields.io/badge/-@undiscovered__genius_-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/undiscovered__genius_/)
 [![Mail Badge](https://img.shields.io/badge/-ayushksingh7-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ayushksingh7@gmail.com)
 [![Mail Badge](https://img.shields.io/badge/-HackerRank-ffffff?style=flat&labelColor=black&logo=hackerrank&logoColor=green)](https://www.hackerrank.com/ayushksingh7)
 [![Mail Badge](https://img.shields.io/badge/-LeetCode-000000?style=flat&labelColor=000000&logo=leetcode&logoColor=orange)](https://leetcode.com/ayushksingh7)
