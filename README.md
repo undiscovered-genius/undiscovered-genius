@@ -21,7 +21,7 @@
 [![Mail Badge](https://img.shields.io/badge/-ayushksingh7-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ayushksingh7@gmail.com)
 [![Mail Badge](https://img.shields.io/badge/-HackerRank-ffffff?style=flat&labelColor=black&logo=hackerrank&logoColor=green)](https://www.hackerrank.com/ayushksingh7)
 [![Mail Badge](https://img.shields.io/badge/-LeetCode-000000?style=flat&labelColor=000000&logo=leetcode&logoColor=orange)](https://leetcode.com/ayushksingh7)
-<br>
+<br />
 
 ## Badge: <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
