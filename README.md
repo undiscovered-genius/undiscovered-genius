@@ -25,12 +25,22 @@
 
 ## Badge: <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
+<!---
 <p style="text-align:right">
   
 ![](https://github.com/undiscovered-genius/GitStats/blob/master/generated/overview.svg)
 ![](https://github.com/undiscovered-genius/GitStats/blob/master/generated/languages.svg)
 </p>
 
+-->
+ 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=undiscovered-genius&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=undiscovered-genius&show_icons=true&theme=blue-green)  
+
+![GitHub metrics](https://metrics.lecoq.io/undiscovered-genius) 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=undiscovered-genius&theme=blue-green)  
 
 ## [![Profile views](https://visitor-badge.glitch.me/badge?page_id=undiscovered-genius.undiscovered-genius)](https://github.com/undiscovered-genius)
 ## [![Hits views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{undiscovered-genius}1212%2Fhit-counter)](https://github.com/undiscovered-genius)
