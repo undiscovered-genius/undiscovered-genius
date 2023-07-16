@@ -25,12 +25,22 @@
 
 ## Badge: <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
+<p style="text-align:right">
+  
+![](https://github.com/undiscovered-genius/GitStats/blob/master/generated/overview.svg)
+![](https://github.com/undiscovered-genius/GitStats/blob/master/generated/languages.svg)
+</p>
+
+<!---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=undiscovered-genius&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=undiscovered-genius&show_icons=true&theme=blue-green)  
 
-![GitHub metrics](https://metrics.lecoq.io/undiscovered-genius)  
+![GitHub metrics](https://metrics.lecoq.io/undiscovered-genius) 
+
+-->
+ 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=undiscovered-genius&theme=blue-green)  
 
