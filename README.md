@@ -1,9 +1,11 @@
-![Profile views](https://gpvc.arturio.dev/undiscovered-genius)  
+## [![](https://visitcount.itsvg.in/api?id=undiscovered-genius&label=Profile%20Views&color=9&icon=5&pretty=true)](https://visitcount.itsvg.in) 
 
 ## Hi there 👋, my name is Ayush Kumar Singh, aka Undiscovered-Genius :bowtie:
 <img src='res\night.gif' class="center">
 
-### I am a self-taught Mobile App Developer and Data Science enthusiast. I love solving problems with mobile apps that have a great balance of simple design & good functionality. I am currently pursuing my 4th year B.Tech in CSE branch at SIT, Pune(2019-23). Always open to learn new things and develop a healthy balance between academics and extracurricular activities.
+### I am a self-taught Mobile App Developer turned Data Engineer, with a deep passion for leveraging data engineering and data science to tackle complex problems. Skilled in creating mobile applications, I am committed to seamless design and robust functionality. My experience extends to training ML models, hosting APIs, and integrating them into mobile apps for enhanced problem-solving.
+### I completed my B.Tech in CSE at SIT, Pune, in 2023, and I am currently working as a Data Engineer in Pune. Always open to learning, I am dedicated to maintaining a healthy balance between academics and extracurricular activities.
+
 ##   [![Portfolio Badge](https://img.shields.io/badge/Portfolio-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white)](https://profirebaseproject-3b14b.web.app/) 
 
 ## Skills & Tools: 
@@ -41,7 +43,3 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/undiscovered-genius) 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=undiscovered-genius&theme=blue-green)  
-
-## [![Profile views](https://visitor-badge.glitch.me/badge?page_id=undiscovered-genius.undiscovered-genius)](https://github.com/undiscovered-genius)
-## [![Hits views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{undiscovered-genius}1212%2Fhit-counter)](https://github.com/undiscovered-genius)
-##  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=undiscovered-genius.undiscovered-genius)
