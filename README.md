@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar Singh, aka Undiscovered-Genius</h1>
+<img src='res\night.gif' class="center">
 <h3 align="center">I am a self-taught Mobile App Developer turned Data Engineer, with a deep passion for leveraging data engineering and data science to tackle complex problems. Skilled in creating mobile applications, I am committed to seamless design and robust functionality. My experience extends to training ML models, hosting APIs, and integrating them into mobile apps for enhanced problem-solving. I completed my B.Tech in CSE at SIT, Pune, in 2023, and I am currently working as a Data Engineer in Pune. Always open to learning, I am dedicated to maintaining a healthy balance between academics and extracurricular activities.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=undiscovered-genius&label=Profile%20views&color=0e75b6&style=flat" alt="undiscovered-genius" /> </p>
+[![](https://visitcount.itsvg.in/api?id=undiscovered-genius&label=Profile%20Views&color=9&icon=5&pretty=true)](https://visitcount.itsvg.in) 
 
 - 🔭 I’m currently working on [I’m currently working on Spotify Indian Podcasts](https://github.com/MrCipher691/Spotify-Indian-Podcasts)
 
 - 🌱 I’m currently learning **everything I can.**
 
-- 👨‍💻 All of my projects are available at [![Portfolio Badge](https://img.shields.io/badge/Portfolio-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white)](https://profirebaseproject-3b14b.web.app/)
+- 👨‍💻 All of my projects are available at    [![Portfolio Badge](https://img.shields.io/badge/Portfolio-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white)](https://profirebaseproject-3b14b.web.app/)
 
-- 📫 How to reach me [![Mail Badge](https://img.shields.io/badge/-ayushksingh7-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ayushksingh7@gmail.com)
+- 📫 How to reach me    [![Mail Badge](https://img.shields.io/badge/-ayushksingh7-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ayushksingh7@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
