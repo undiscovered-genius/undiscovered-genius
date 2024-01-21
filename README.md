@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar Singh, aka Undiscovered-Genius</h1>
-[![](https://visitcount.itsvg.in/api?id=undiscovered-genius&label=Profile%20Views&color=9&icon=5&pretty=true)](https://visitcount.itsvg.in) 
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=undiscovered-genius&label=Profile%20Views&color=9&icon=5&pretty=true" />
+</a>
 <p align="center">
   <img src="res/night.gif">
 </p>
