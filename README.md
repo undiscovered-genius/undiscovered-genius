@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar Singh, aka Undiscovered-Genius</h1>
-<img src='res\night.gif' class="center">
-<h3 align="center">I am a self-taught Mobile App Developer turned Data Engineer, with a deep passion for leveraging data engineering and data science to tackle complex problems. Skilled in creating mobile applications, I am committed to seamless design and robust functionality. My experience extends to training ML models, hosting APIs, and integrating them into mobile apps for enhanced problem-solving. I completed my B.Tech in CSE at SIT, Pune, in 2023, and I am currently working as a Data Engineer in Pune. Always open to learning, I am dedicated to maintaining a healthy balance between academics and extracurricular activities.</h3>
-
 [![](https://visitcount.itsvg.in/api?id=undiscovered-genius&label=Profile%20Views&color=9&icon=5&pretty=true)](https://visitcount.itsvg.in) 
+
+<p align="center">
+  <img src="res/night.gif">
+</p>
+
+<h3 align="center">I am a self-taught Mobile App Developer turned Data Engineer, with a deep passion for leveraging data engineering and data science to tackle complex problems. Skilled in creating mobile applications, I am committed to seamless design and robust functionality. My experience extends to training ML models, hosting APIs, and integrating them into mobile apps for enhanced problem-solving.</h3>
+<h3 align="center">I completed my B.Tech in CSE at SIT, Pune, in 2023, and I am currently working as a Data Engineer in Pune. Always open to learning, I am dedicated to maintaining a healthy balance between academics and extracurricular activities.</h3>
 
 - 🔭 I’m currently working on [I’m currently working on Spotify Indian Podcasts](https://github.com/MrCipher691/Spotify-Indian-Podcasts)
 
