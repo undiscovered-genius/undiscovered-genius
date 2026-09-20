@@ -13,7 +13,7 @@
 
 ### - 🌱 I’m currently learning **everything I can.**
 
-### - 👨‍💻 All of my projects are available at    [![Portfolio Badge](https://img.shields.io/badge/Portfolio-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white)](https://profirebaseproject-3b14b.web.app/)
+### - 👨‍💻 All of my projects are available at    [![Portfolio Badge](https://img.shields.io/badge/Portfolio-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white)](https://undiscovered-genius.github.io/portfolio/)
 
 ### - 📫 How to reach me    [![Mail Badge](https://img.shields.io/badge/-ayushksingh7-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ayushksingh7@gmail.com)
 
